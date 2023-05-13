@@ -1,0 +1,17 @@
+Functiile ce pot fii indeplinite de catre un QA in fiecare etapa de viata ale aplicatiei :
+
+
+1.In faza de "Analysis" : 
+QA-ul incearca sa adune toate specificatile necesare funcitonarii corecte a aplicatiei tinand cont de nevoile utilizatorilor.
+
+2.In faza de "Planning" :
+Vor crea planul de testare in amanunt pentru a putea atinge toate nevoile necesare functionarii aplicatiei.
+
+3.In faza de Test development : 
+Toata echipa de QA sau doar o singura persoana (depinde de ambiguitatea aplicatiei) si creaza etape pentru atingerea obiectivelor de testare.
+
+4.In faza de "Enviroment" :
+Daca este necesar si aplicatia nu este destinata unui singur "Mediu de functionare" 
+
+5.In faza de "Test execution and closure"
+Echipa de QA creaza test case-uri si evalueaza ordinea si criteriile dupa sunt evaluate bug-urile si cat de mult influenteaza aplicatia testata.

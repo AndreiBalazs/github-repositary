@@ -1,0 +1,11 @@
+CELE 4 FUNCTII PRINCIPALE ALE SITE-ULUI "CURSVALUTAR.RO" sunt urmatoarele:
+
+
+1.Calculul sumelor dintr-o moneda in alta
+2.Conversia monedelor
+3.Generarea de grafice conform modificarilor pe o anumita moneda
+4.Afisarea arhivelor si modificarile pe fiecare moneda
+5.Posibilitatea prekuare intr-un site a serviciilor oferite de "cursvalutar.ro" cu posibilitatea de editare a infatisarii:
+(<iframe style="width: 200px; max-width: 100%; height: 210px;" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" 
+src="https://www.cursvalutar.ro/widget/?val=EUR,USD,XAU&w=200&con=on/"></iframe> adaugand si link-ul de afisare )
+6.Afisarea de ferestre de promovare a reclamelor .
